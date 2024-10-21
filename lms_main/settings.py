@@ -12,7 +12,7 @@ https://docs.djangoproject.com/en/4.2/ref/settings/
 """
 import os
 from pathlib import Path
-
+#baqxvgxh
 RAZORPAY_KEY_ID = os.environ.get('rzp_test_j2QVTG6ChdhMbK')
 RAZORPAY_KEY_SECRET = os.environ.get('zyifxMTfW1kaKEnjWZwLj18W')
 
